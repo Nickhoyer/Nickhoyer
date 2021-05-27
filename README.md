@@ -3,3 +3,5 @@
 I'm currently employed by [Nuuday](https://nuuday.dk/) doing frontend development for the self-service part of https://yousee.dk/
 
 In my spare time I am currently studying Rust and Hardware Emulation.
+
+I also have a great interest in AI competitions, mostly on https://www.codingame.com/
