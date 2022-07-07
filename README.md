@@ -1,6 +1,6 @@
-👋 Hi, I’m Nickolas, 25 year old and living in Copenhagen.
+👋 Hi, I’m Nickolas, 26 year old and living in Copenhagen.
 
-I'm currently employed by [Nuuday](https://nuuday.dk/) doing frontend development for the self-service part of https://yousee.dk/
+I'm currently employed by Impact (https://www.impact.dk/)
 
 In my spare time I am currently studying Rust and Hardware Emulation.
 
