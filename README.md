@@ -1,4 +1,4 @@
-👋 Hi, I’m Nickolas, 26 year old and living in Copenhagen.
+👋 Hi, I’m Nickolas, 27 year old and living in Copenhagen.
 
 I'm currently employed by Impact (https://www.impact.dk/)
 
