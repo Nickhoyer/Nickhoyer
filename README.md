@@ -1,4 +1,4 @@
-Hi, I’m Nickolas, 28 year old, ~~living in Copenhagen~~ currently Buenos Aires.
+Hi, I’m Nickolas, 28 year old, ~~living in Copenhagen~~ currently living in Buenos Aires.
 
 Former Senior Frontend Engineer gone remote freelancer (Feel free to contact me with any work)
 
